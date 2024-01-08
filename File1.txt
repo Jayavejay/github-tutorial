@@ -1,2 +1,3 @@
 I like apple in file1
 I dont like Apple
+I like banana
